@@ -1,2 +1,2 @@
 # gw2_on_linux
-Gw2 Setup and scripts for automatic updates
+Scripts I use to run gw2 on Linux with d9vk and arcdps plugin
