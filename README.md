@@ -1,2 +1,2 @@
-# gw2_on_linux
-Scripts I use to run gw2 on Linux with d9vk and arcdps plugin
+# Deprecated
+Do not use this! It is very outdated. Use the [lutris installer](git@github.com:pascalharp/gw2_on_linux.git) instead!
